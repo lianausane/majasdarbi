@@ -59,5 +59,4 @@ keys_list = list(vārdnīca)
 key = keys_list[0]
 print(key)
   
-
   

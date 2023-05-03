@@ -1,0 +1,21 @@
+    H1.v1 { 
+		font-size: x-large; 
+		color: blue 
+		}
+	H1.v2 { 
+		font-size: x-large; 
+		color: green 
+		}
+	H1.v3 { 
+		font-size: x-large; 
+		color: pink 
+		}
+	
+    H2 { 
+		font-size: large; 
+		color: salmon 
+	}
+	
+	P.teksts {font-size: 13pt; color: grey; letter-spacing:1pt; line-height: 12pt; font-family: verdana}
+	P.citati {font-size: 8pt; color: #FF0000; letter-spacing:1pt; font-style: italic; text-transform: uppercase; text-align: center}
+	
